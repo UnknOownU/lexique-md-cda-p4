@@ -1,7 +1,7 @@
 # lexique-md-cda-p4
 
 ## Linux 
-![Linux](https://blog.vtutor.com/wp-content/uploads/2019/12/Linux.jpg | width=50)
+![Linux](https://blog.vtutor.com/wp-content/uploads/2019/12/Linux.jpg)
 
 - **Découverte de Linux** :
   - **Savoir ce qu'est Linux**  
