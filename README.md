@@ -40,3 +40,30 @@
 
   - **Comprendre le principe des options dans les commandes**  
     Les options dans les commandes modifient leur comportement. Elles sont généralement précédées d'un tiret simple ou double. Par exemple, avec la commande `ls`, l'option `-l` affiche les fichiers en mode détaillé.
+
+## Raccourci Clavier
+
+**Comprendre l'intérêt des raccourcis clavier**  
+Les raccourcis clavier permettent d'effectuer des actions plus rapidement sans avoir à utiliser la souris. Ils améliorent la productivité en réduisant le temps de navigation entre les menus et les fenêtres, facilitant ainsi l'interaction avec le système.
+
+**Découverte des raccourcis clavier Linux** :
+  - **Navigateur (fenêtres, onglets, navigation, etc.)**  
+    Les raccourcis clavier dans les navigateurs permettent de gérer les fenêtres, les onglets et la navigation plus efficacement. Par exemple :
+    - `Ctrl + T` : Ouvrir un nouvel onglet.
+    - `Ctrl + W` : Fermer l'onglet actuel.
+    - `Ctrl + Tab` : Passer à l'onglet suivant.
+    - `Alt + Flèche gauche` : Revenir à la page précédente.
+
+  - **Terminal (fenêtres, onglets, commandes)**  
+    Les raccourcis dans le terminal permettent de gérer plusieurs fenêtres ou onglets et d'exécuter des commandes rapidement. Quelques exemples :
+    - `Ctrl + Shift + T` : Ouvrir un nouvel onglet dans le terminal.
+    - `Ctrl + Shift + W` : Fermer un onglet.
+    - `Ctrl + C` : Arrêter une commande en cours d'exécution.
+    - `Ctrl + L` : Effacer l'écran du terminal.
+
+  - **Découverte et installation de Albert (Linux) / Alfred (Mac)**  
+    Albert (pour Linux) et Alfred (pour Mac) sont des lanceurs d'applications qui permettent de rechercher et d'exécuter rapidement des programmes, des fichiers ou des commandes. Ils améliorent la productivité en offrant une interface rapide et simple d'accès via des raccourcis clavier. Pour installer Albert sur Linux, tu peux utiliser la commande suivante dans le terminal :  
+    ```bash
+    sudo apt install albert
+    ```
+    Pour Alfred sur Mac, tu peux le télécharger directement depuis le site officiel.
