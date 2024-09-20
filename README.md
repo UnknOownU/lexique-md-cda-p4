@@ -1,3 +1,5 @@
+# lexique-md-cda-p4
+
 ### Les commandes de base de Git
 
 - git init : initialise le versioning du repository
@@ -29,8 +31,6 @@ Qu'est-ce qu'un `fork` ? : c'est une copie d’un repo depuis un compte GitHub v
     
 
 
-# lexique-md-cda-p4
-
 ## Linux 
 ![Linux](https://blog.vtutor.com/wp-content/uploads/2019/12/Linux.jpg)
 - **Découverte de Linux** :
@@ -43,7 +43,7 @@ Qu'est-ce qu'un `fork` ? : c'est une copie d’un repo depuis un compte GitHub v
   - **Comprendre l'arborescence de Linux**  
     L'arborescence de Linux est l'organisation des fichiers et des répertoires du système. À la racine de cette arborescence se trouve `/` (racine) qui contient plusieurs dossiers tels que `/bin` (commandes de base), `/etc` (fichiers de configuration), `/home` (dossiers des utilisateurs), etc. Chaque répertoire a une fonction bien définie dans le système.
 
-## LeTerminale
+## Le Terminal
 
 **Découverte du Terminal** : 
   - **Comprendre la différence entre une interface en ligne de commande et une interface graphique**  
