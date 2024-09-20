@@ -1,9 +1,7 @@
----
 # lexique-md-cda-p4
 
 ## Linux 
 ![Linux](https://blog.vtutor.com/wp-content/uploads/2019/12/Linux.jpg)
-
 - **Découverte de Linux** :
   - **Savoir ce qu'est Linux**  
     Linux est un système d'exploitation open-source basé sur le noyau Linux. Il est utilisé dans divers environnements, allant des serveurs aux ordinateurs personnels, et est connu pour sa stabilité, sa sécurité et sa flexibilité.
@@ -41,7 +39,8 @@
 
   - **Comprendre le principe des options dans les commandes**  
     Les options dans les commandes modifient leur comportement. Elles sont généralement précédées d'un tiret simple ou double. Par exemple, avec la commande `ls`, l'option `-l` affiche les fichiers en mode détaillé.
----
+
+
 
 ## GitFlow
 
